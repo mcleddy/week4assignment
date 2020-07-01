@@ -1,0 +1,19 @@
+{
+  "name": "week4assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcleddy/week1assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcleddy/week1assignment/issues"
+  },
+  "homepage": "https://github.com/mcleddy/week1assignment#readme"
+}
